@@ -33,7 +33,7 @@
 		"@oslojs/webauthn": "^1.0.0",
 		"@pilcrowjs/db-query": "^0.0.2",
 		"@pilcrowjs/object-parser": "^0.0.4",
-		"better-sqlite3": "^11.3.0",
+		"better-sqlite3": "11.9.1",
 		"uqr": "^0.1.2"
 	}
 }

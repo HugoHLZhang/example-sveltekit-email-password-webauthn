@@ -1,3 +1,13 @@
+# Prerequis pour Windows
+
+- Installer Node.js
+- Installer Visual Studio Build Tools
+  - Sélectionnez : Développement Desktop en C++
+- Installer SQLite
+  - dll et tools
+  - copier/coller les fichiers dans un dossier sur le disque C
+  - ajouter le chemin de ce dossier dans les variables d'environnement
+
 # Email and password example with 2FA and WebAuthn in SvelteKit
 
 Built with SQLite.
