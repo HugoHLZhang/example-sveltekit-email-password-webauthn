@@ -1,8 +1,6 @@
 # Prerequis pour Windows
 
 - Installer Node.js
-- Installer Visual Studio Build Tools
-  - Sélectionnez : Développement Desktop en C++
 - Installer SQLite
   - dll et tools
   - copier/coller les fichiers dans un dossier sur le disque C
